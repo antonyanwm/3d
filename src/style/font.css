@@ -1,0 +1,19 @@
+@font-face {
+	font-family: fontItalian;
+	/* src: url('/fonts/gropled-bold.woff2') format('woff2'), url('/fonts/gropled-bold.woff') format('woff'), url('/fonts/gropled-bold.ttf') format('opentype'); */
+	src: url('/fonts/EduAUVICWANTHand-Bold.woff') format('woff');
+	font-display: swap;
+	font-style: normal;
+	font-weight: 600;
+	font-stretch: normal;
+}
+
+@font-face {
+	font-family: fontItalian;
+	/* src: url('/fonts/gropled-bold.woff2') format('woff2'), url('/fonts/gropled-bold.woff') format('woff'), url('/fonts/gropled-bold.ttf') format('opentype'); */
+	src: url('/fonts/EduAUVICWANTHand-SemiBold.woff') format('woff');
+	font-display: swap;
+	font-style: normal;
+	font-weight: 700;
+	font-stretch: normal;
+}

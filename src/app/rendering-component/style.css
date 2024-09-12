@@ -1,0 +1,12 @@
+.renderingComponent {
+	height: 200vh;
+	/* canvas {
+		width: 50% !important;
+		height: fit-content !important;
+		position: relative;
+	} */
+	div {
+		position: relative;
+		z-index: 1000;
+	}
+}

@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	/* height: 500vh; */
+}
+canvas {
+	display: block;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+main {
+	position: relative;
+	z-index: 100;
+}
+
+/* .font {
+	font-family: fontItalian;
+	font-weight: 600 !important;
+} */
